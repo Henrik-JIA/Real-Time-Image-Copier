@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+piexif = "==1.1.3"
+pillow = "==11.0.0"
+pyqt5 = "==5.15.11"
+pyqt5-sip = "==12.15.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
+python_full_version = "3.8.16"
